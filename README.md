@@ -33,6 +33,7 @@ Git & GitHub – Version control
 
 📂 Project Structure
 
+
 ok_ru_backend/
 │
 ├── app.py
@@ -319,8 +320,10 @@ The main objective of this project is to develop a modular and scalable backend 
 The architecture provides a foundation for integrating live video streaming, stream management, real-time communication, authentication, analytics, multimedia processing, and other platform services.
 
 👩‍💻 Author
+
 Deepanshu Kashyap
 Backend Development | AI/ML | Data Analytics
 
 📄 License
+
 This project is intended for learning, development, and demonstration purposes.
